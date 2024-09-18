@@ -4,4 +4,4 @@ version=v1.0.1 (101)
 versionCode=101
 author=llcgzs
 description=通过OverlayFS的方式读写/system，卸载模块后还原。
-updateJson=https://api.nullptr.icu/android/zygisk-next/static/update.json
+updateJson=https://github.com/llcgzs/system_partitionr_rw/blob/83ee90fe1e1623dacfe546985a6dd051b3dc336a/update.json
